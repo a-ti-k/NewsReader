@@ -1,0 +1,12 @@
+[
+  {"name":"The Daily Star","url":"https://www.thedailystar.net/frontpage/rss.xml","categories":["National","Politics","Business"],"region":"Bangladesh"},
+  {"name":"bdnews24.com","url":"https://bdnews24.com/?widgetName=rssfeed&widgetId=1150&getXmlFeed=true","categories":["National","Politics","Business"],"region":"Bangladesh"},
+  {"name":"Prothom Alo","url":"https://www.prothomalo.com/feed/","categories":["National","Politics"],"region":"Bangladesh"},
+  {"name":"Dhaka Tribune","url":"https://www.dhakatribune.com/topic/rss/feed","categories":["National","Politics","Business"],"region":"Bangladesh"},
+  {"name":"BBC World","url":"https://feeds.bbci.co.uk/news/world/rss.xml","categories":["World"],"region":"International"},
+  {"name":"BBC Business","url":"https://feeds.bbci.co.uk/news/business/rss.xml","categories":["Business"],"region":"International"},
+  {"name":"BBC Technology","url":"https://feeds.bbci.co.uk/news/technology/rss.xml","categories":["Technology"],"region":"International"},
+  {"name":"BBC Sport","url":"https://feeds.bbci.co.uk/sport/rss.xml","categories":["Sports"],"region":"International"},
+  {"name":"The Guardian Culture","url":"https://www.theguardian.com/culture/rss","categories":["Entertainment"],"region":"International"},
+  {"name":"BBC News","url":"https://feeds.bbci.co.uk/news/rss.xml","categories":["World","Politics"],"region":"International"}
+]
