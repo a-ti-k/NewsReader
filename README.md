@@ -9,7 +9,7 @@
 ---
 
 ## 💡 Origin & Vision
-This application was conceptualized and brought to life based on an inspiring idea by **[Your Name / User]**, aiming to deliver a fast, clean, distraction-free, and privacy-respecting daily news briefing app without requiring paid news APIs, external subscriptions, or server infrastructure.
+This application was conceptualized and brought to life based on an inspiring idea by **ATIK**, aiming to deliver a fast, clean, distraction-free, and privacy-respecting daily news briefing app without requiring paid news APIs, external subscriptions, or server infrastructure.
 
 ---
 
